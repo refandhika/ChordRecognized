@@ -1,0 +1,2 @@
+# ChordRecognized #
+# Program untuk skripsi #
