@@ -1,0 +1,1 @@
+accuracy = count / (row*col);
